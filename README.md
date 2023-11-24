@@ -5,7 +5,7 @@
 
 Scan and reconize text.
 
-<img src="https://github.com/brunabaudel/textRecognizer/blob/main/screenshoots/scanner.png" width=30% height=30%>
+<img src="https://github.com/brunabaudel/textRecognizer/blob/main/screenshoots/scanner.png" width=50% height=50%>
 
 <!-- LICENSE -->
 ## License
